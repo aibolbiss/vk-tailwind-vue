@@ -1,24 +1,24 @@
-# vk-tailwind
+# Верстка ВКонтакте на Tailwind CSS и VueJS
 
-## Project setup
+## Настройка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компилируем и выполняем горячую перезагрузку (hot-reloads) для разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилируем и минимизируем для продакшена
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Ссылки и исправления файлов
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Настроить конфигурацию
+https://cli.vuejs.org/config/
